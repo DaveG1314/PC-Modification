@@ -9,9 +9,9 @@ This project documents the hardware upgrade and performance improvement of a Del
 - Improved airflow and cable management
 - M.2 SSD installation for faster performance
 
-## 📽️ YouTube Demo
-
-[![Watch the Modification Video]([https://www.youtube.com/watch?v=n4xBDdS-N-Q](https://youtu.be/n4xBDdS-N-Q?si=kUhTtPatJrODGq5p))
+## 📽️ YouTube 
+Channel: Broke Nerd
+https://youtu.be/n4xBDdS-N-Q?si=kUhTtPatJrODGq5p
 
 > This video showcases the full upgrade process, benchmarks, and results.
 
