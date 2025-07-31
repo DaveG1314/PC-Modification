@@ -11,7 +11,7 @@ This project documents the hardware upgrade and performance improvement of a Del
 
 ## 📽️ YouTube Demo
 
-[![Watch the Modification Video](https://www.youtube.com/watch?v=n4xBDdS-N-Q)
+[![Watch the Modification Video]([https://www.youtube.com/watch?v=n4xBDdS-N-Q](https://youtu.be/n4xBDdS-N-Q?si=kUhTtPatJrODGq5p))
 
 > This video showcases the full upgrade process, benchmarks, and results.
 
