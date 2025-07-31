@@ -5,7 +5,7 @@ This project documents the hardware upgrade and performance improvement of a Del
 
 ## 🔧 Upgrades Performed
 - Replaced stock case with custom ATX case
-- Upgraded RAM
+- Upgraded PSU
 - Improved airflow and cable management
 - M.2 SSD installation for faster performance
 
@@ -20,7 +20,7 @@ The goal was to repurpose an old business desktop into a capable machine for mod
 
 ## ⚙️ Specs After Upgrade
 - **CPU:** Intel Core i5 (LGA 1150)
-- **RAM:** 16GB DDR3
+- **PSU:** 700watts 
 - **Storage:** 512GB M.2 SSD
 - **Case:** Custom ATX with side panel fans
 
